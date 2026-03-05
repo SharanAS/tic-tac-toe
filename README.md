@@ -7,7 +7,7 @@ Overview
 This project is a browser-based implementation of the classic Tic Tac Toe game built using HTML, CSS, and JavaScript.
 The game allows two players to enter their names, play against each other, and keeps track of their scores using localStorage so the scores persist even after refreshing the page.
 
-###Screenshots
+### Screenshots
 <img width="1857" height="876" alt="game" src="https://github.com/user-attachments/assets/4a83ea8b-68af-4ef6-a33e-1b441a4e9a21" />
 
 <img width="1848" height="877" alt="win" src="https://github.com/user-attachments/assets/bb8ee68d-b13d-49b8-bc15-909c60d54ca2" />
@@ -18,7 +18,7 @@ The game allows two players to enter their names, play against each other, and k
 <img width="1849" height="879" alt="tie" src="https://github.com/user-attachments/assets/d7f69696-8f32-413b-a7fa-105a2923b87b" />
 
 
-###Features
+### Features
 
 Two-player gameplay
 
@@ -34,7 +34,7 @@ Reset game functionality
 
 Responsive design (works on both desktop and mobile devices)
 
-###Technologies Used
+### Technologies Used
 
 HTML – structure of the game
 
@@ -44,7 +44,7 @@ JavaScript – game logic and interactivity
 
 localStorage API – saving player scores
 
-###How to Run the Game
+### How to Run the Game
 
 Clone this repository or download the files.
 
