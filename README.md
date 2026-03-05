@@ -79,17 +79,18 @@ tic-tac-toe
 ├── style.css      # Styling and responsive design
 ├── script.js      # Game logic
 └── README.md      # Project documentation
-Future Improvements
 
-Add a graphical start screen instead of prompt input
+## AI Usage Disclosure
 
-Add animations for moves and winning combinations
+During the development of this project, AI tools were used for assistance in the following ways:
 
-Implement a single-player mode with AI
+* Clarifying JavaScript concepts and debugging errors
+* Suggestions for improving code structure and readability
+* Guidance on implementing certain features such as win detection, tie detection, and localStorage usage
+* Assistance in writing documentation
 
-Screenshots
+All code was written, understood, and tested by the author. AI was used only as a **learning and guidance tool**, similar to consulting documentation or online programming resources.
 
-(Add screenshots of the game here)
 
 Author
 
