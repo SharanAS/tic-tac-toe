@@ -15,8 +15,7 @@ Screenshots
 <img width="1850" height="872" alt="win2" src="https://github.com/user-attachments/assets/20c135eb-2797-468f-b202-b9507f4a3c7a" />
 
 
-<img width="18![Uploading win.png…]()
-49" height="879" alt="tie" src="https://github.com/user-attachments/assets/d7f69696-8f32-413b-a7fa-105a2923b87b" />
+<img width="1849" height="879" alt="tie" src="https://github.com/user-attachments/assets/d7f69696-8f32-413b-a7fa-105a2923b87b" />
 
 
 Features
